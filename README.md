@@ -11,4 +11,6 @@ Sr.no  Username         Password
 
 Use the above username and password to test the app,incorrect credentials will throw an error.
 
-to test: [login-page-using-supabase](login-page-supabase.netlify.app)
+to test: copy and paste the belowlink:-
+
+login-page-supabase.netlify.app
